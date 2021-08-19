@@ -1,7 +1,6 @@
 def main():
     #escribe tu código abajo de esta línea
-
-    import math
+import math
 
 print("give me x1:")
 x1=float(input())
@@ -17,6 +16,3 @@ y2=float(input())
 
 m=(y2-y1)/(x2-x1)
 print("pendiente=", m)
-
-if __name__ == '__main__':
-    main()
