@@ -17,9 +17,6 @@ y2=float(input())
 
 m=(y2-y1)/(x2-x1)
 print("pendiente=", m)
-   
-    #Lee los datos
-    pass
 
 if __name__ == '__main__':
     main()
