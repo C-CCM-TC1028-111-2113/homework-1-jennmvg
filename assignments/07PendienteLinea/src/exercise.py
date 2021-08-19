@@ -1,6 +1,5 @@
 def main():
     #escribe tu código abajo de esta línea
-import math
 
 print("give me x1:")
 x1=float(input())
